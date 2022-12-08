@@ -1,8 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Cabir Bayram</h1>
 <h3 align="center">Frontend Architect • Rocker • Fantasy & Science Fiction Lover • Co-host lokalimde.works</h3>
 
-<p align="left"> <a href="https://twitter.com/cabirbayram" target="blank"><img src="https://img.shields.io/twitter/follow/cabirbayram?logo=twitter&style=for-the-badge" alt="cabirbayram" /></a> </p>
-
 - 🤝 I'm collaborating on [lokalimde.works](https://github.com/hwclass/lokalimde.works)
 
 - 📝 I regularly write articles on [https://medium.com/@CabirBayram](https://medium.com/@CabirBayram)
