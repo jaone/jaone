@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/cabirbayram" target="blank"><img src="https://img.shields.io/twitter/follow/cabirbayram?logo=twitter&style=for-the-badge" alt="cabirbayram" /></a> </p>
 
-- 👯 I’m looking to collaborate on [lokalimde.works](https://github.com/hwclass/lokalimde.works)
+- 👯 I'm collaborating on [lokalimde.works](https://github.com/hwclass/lokalimde.works)
 
 - 📝 I regularly write articles on [https://medium.com/@CabirBayram](https://medium.com/@CabirBayram)
 
