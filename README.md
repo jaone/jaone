@@ -11,6 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Geliştirmede Postmodern Yöntemler — 2](https://medium.com/@CabirBayram/geli%C5%9Ftirmede-postmodern-y%C3%B6ntemler-2-e7b97b6dc16f?source=rss-bb132e30fd5a------2)
 - [Geliştirmede Postmodern Yöntemler — 1](https://medium.com/@CabirBayram/geli%C5%9Ftirmede-postmodern-y%C3%B6ntemler-1-5217c8c8c657?source=rss-bb132e30fd5a------2)
 <!-- BLOG-POST-LIST:END -->
 
